@@ -4,7 +4,7 @@ glightbox: false
 
 # Assignments
 
-_Welcome, My name is [Loes Bogers](https://class.textile-academy.org/2020/loes.bogers/) from UR-ACEIoT_
+_Welcome, My name is IZESA JABO Epiphane. and these are the Daily Activities that I have done through this 2 week-period for this Lesson of Modeling and Fabrication Techniques.
 
 
 ||||
