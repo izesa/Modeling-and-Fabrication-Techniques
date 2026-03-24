@@ -47,10 +47,7 @@ theme:
 #   - 'javascript/extra.js'
 
 plugins:
-  - search
-  - glightbox:
-  - git-revision-date:
-      enabled_if_env: CI
+ []
 
 # See more extensions at https://squidfunk.github.io/mkdocs-material/reference/
 markdown_extensions:
