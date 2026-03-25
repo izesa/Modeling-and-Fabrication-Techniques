@@ -18,19 +18,19 @@ A visually correct model may still be fabrication-incorrect. Focus on structural
 The activity is to design the model for being able to print it. using FreeCad app, the selected model is first designed in 2 dimension and then the resulted shape is modified with in 3D space. The following image shows the picture of the L-Shaped Mounting Bracket model designed using FreeCAD application.
 
 #### Designing the wall hook using FreeCad platform.
-![Image](../images/FreeCAD1.png){ width=300 Height=200 align=middle }
+![Image](../images/FreeCAD1.png){ width=400 Height=300 align=middle }
 
 
-From the provided picture its showing by using this software u can design a 3D shapped device of your own, but for me i was required to design a L-shaped wall hook.
+#### From the provided picture its showing by using this software u can design a 3D shapped device of your own, but for me i was required to design a L-shaped wall hook.
 this Is the final prototype of what i'm supposed to design.
 
-![Image](../images/FreeCAD2.png){width=200 align=right}
+![Image](../images/FreeCAD2.png){width=400 Height=300 align=middle}
 
-From this Provided Picture, it is showing all dimensional design surface for better understanding how it is a 3D design. from this i have chose the XZ for designing in 2-Demensional path after i used the "Pad tool " for a better visulaization in order to put holes where the nails are going to fit in. the following picture is going to show it.
+#### From this Provided Picture, it is showing all dimensional design surface for better understanding how it is a 3D design. from this i have chose the XZ for designing in 2-Demensional path after i used the "Pad tool " for a better visulaization in order to put holes where the nails are going to fit in. the following picture is going to show it.
 
-![Image](../images/FreeCAD3.png){ width=300 Height=200 align=middle }
+![Image](../images/FreeCAD3.png){ width=400 Height=300 align=middle }
 
-This shows exactly how i design the holes for where the nails are going to be while holding it on a wall.
+#### This shows exactly how i design the holes for where the nails are going to be while holding it on a wall.
 
 
 ## Research
