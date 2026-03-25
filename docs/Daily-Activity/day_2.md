@@ -23,19 +23,20 @@ The activity is to design the model for being able to print it. using FreeCad ap
 
 #### From this picture, shows the first steps of desining, this is how i manupulate the tool bars using the lines adjusting the the geometric figure, removing all the constraints and finalizing the first symetric figure.
 
-![Image](../images/FreeCAD1.png){ width=400 Height=300 align=middle }
-
-
-#### From the provided picture its showing by using this software u can design a 3D shapped device of your own, but for me i was required to design a L-shaped wall hook.
-This above picture  Is the final prototype of what i'm supposed to design.
-
-![Image](../images/FreeCAD2.png){width=400 Height=300 align=middle}
-
-#### From this Provided Picture, it is showing all dimensional design surface for better understanding how it is a 3D design. from this i have chose the XZ for designing in 2-Demensional path after i used the "Pad tool " for a better visulaization in order to put holes where the nails are going to fit in. the following picture is going to show it.
-
 ![Image](../images/FreeCAD3.png){ width=400 Height=300 align=middle }
 
 #### This shows exactly how i design the holes for where the nails are going to be while holding it on a wall.
+
+
+![Image](../images/FreeCAD1.png){ width=400 Height=300 align=middle }
+
+
+#### From the provided picture its showing by using this software u can design a 3D shapped device of your own, but for me i was required to design a L-shaped wall hook,This above picture  Is the final prototype of what i'm supposed to design.
+
+
+### 2. Activity 2: Press-Fit Box Panel (2D Vector) model design
+As learners we are required to recognize the A flat rectangular panel, Rectangular slots cut into the edges, Slots sized to match material thickness and also the Entirely 2D vector geometry. these all task must be completed in Inkscape software which very suitable to this manuals. The following image illustrate the work done through Inkscape app for the 2D vector model design for the press-Fit Box.
+
 
 
 ## Research
