@@ -22,7 +22,7 @@ The activity is to design the model for being able to print it. using FreeCad ap
 
 
 #### From the provided picture its showing by using this software u can design a 3D shapped device of your own, but for me i was required to design a L-shaped wall hook.
-this Is the final prototype of what i'm supposed to design.
+This above picture  Is the final prototype of what i'm supposed to design.
 
 ![Image](../images/FreeCAD2.png){width=400 Height=300 align=middle}
 
