@@ -24,7 +24,7 @@ The activity is to design the model for being able to print it. using FreeCad ap
 From the provided picture its showing by using this software u can design a 3D shapped device of your own, but for me i was required to design a L-shaped wall hook.
 this Is the final prototype of what i'm supposed to design.
 
-![](./images/FreeCAD2.png){}
+![](./images/FreeCAD2.png){width=200 align=right}
 
 From this Provided Picture, it is showing all dimensional design surface for better understanding how it is a 3D design. from this i have chose the XZ for designing in 2-Demensional path after i used the "Pad tool " for a better visulaization in order to put holes where the nails are going to fit in. the following picture is going to show it.
 
