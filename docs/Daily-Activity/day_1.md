@@ -1,4 +1,4 @@
-# 1. Activity of Day 1:
+# 1. Activity of Day 1: Main introduction of Modeling and Fabrication Techniques.
 
 # Foundations of Modeling and Fabrication.
 
