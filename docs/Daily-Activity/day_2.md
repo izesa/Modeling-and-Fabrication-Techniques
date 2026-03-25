@@ -19,8 +19,8 @@ The activity is to design the model for being able to print it. using FreeCad ap
 
 #### Designing the wall hook using FreeCad platform.
 ![Image](../images/FreeCAD5.png){ width=400 Height=300 align=middle }
- From this picture, shows the first steps of desining, this is how i manupulate the tool bars using the lines adjusting the the geometric figure, removing all the constraints and finalizing the first symetric figure.
- 
+ #### From this picture, shows the first steps of desining, this is how i manupulate the tool bars using the lines adjusting the the geometric figure, removing all the constraints and finalizing the first symetric figure.
+
 ![Image](../images/FreeCAD1.png){ width=400 Height=300 align=middle }
 
 
