@@ -42,7 +42,7 @@ The following image shows the design of a 2Dvector Model of Fit box, where it is
 
 
 These box parts in order to have a final product, they are then modified to what a laser cutter can understand, this means that the edges are triggered for alligning with what cutting path must be followed. the following image shows what i'm saying.
-![Image](../images/Jabo_inkscape02_pdf.png){ width=400 Height=300 align=middle }
+![Image](../images/Jabo_Inkscape02_pdf.png){ width=400 Height=300 align=middle }
 
 
 ## A Take Home
