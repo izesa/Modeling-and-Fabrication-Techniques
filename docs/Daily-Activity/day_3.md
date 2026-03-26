@@ -30,7 +30,7 @@ After assigning footprints i click "Apply,Save and continue" and click F8 for up
 ## STEP3: Single-Sided PCB Layout(Placement and Routing)
 After updating the PCB design, now i placed the component in the order for me to easly do routing methods. the following picture will show exactly how i placed them and how i did routing.
 
-![Image](../images/KiCad_PCB_Design.png){ width=400 Height=300 align=middle }
+![Image](../images/kiCad_PCB_Design.png){ width=400 Height=300 align=middle }
 
 After that i checked my design if it is with no errors where i clicked the Design Rules Checker, after that i got a challenge that the board has malformed outline(no edges found on Edge.cuts Layer)
 
