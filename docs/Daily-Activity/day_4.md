@@ -23,10 +23,10 @@ This also determine the type of material to be used. According to what each step
 The selection of Material also consider the ecosystem where the produced device is going to be implemented. for example if it is in Climate monitoring, the materials to be used for the packaging design must be sustainable through rain and doesn't be affected.
 
 ## 3. Diversification of Materials.
-There are different variations of materials which are used in Fabrication Process iether in IoT all even in Computing system aspects. outside the box we have some natural materials like [Wood]{Font style=Bold} which is known for producing different things that are used in our daily life, we also have [Metal]{Font style=Bold} also used for different things like knife,etc. Metal also is used in our IoT field where it regarded as Strenght and precision. There is also [Plastics]{Font style=Bold} which is Lightweight and Adaptable. And Finally, there is [Composites]{Font style=Bold} a substance which combine multiple materials to achieve propertis not found in individual components. for example: Fiberglass which is strong and Flexible.
+There are different variations of materials which are used in Fabrication Process iether in IoT all even in Computing system aspects. outside the box we have some natural materials like **Wood** which is known for producing different things that are used in our daily life, we also have **Metal** also used for different things like knife,etc. Metal also is used in our IoT field where it regarded as Strenght and precision. There is also **Plastics** which is Lightweight and Adaptable. And Finally, there is **Composites** a substance which combine multiple materials to achieve propertis not found in individual components. for example: Fiberglass which is strong and Flexible.
 
 ## 4. Fabrication Approaches.
-There are two main fabrication paradigm which are considered. those are [SubTractive]{Font style=bold} Manufacturing and [Additive]{Font style=Bold} Manufacturing
+There are two main fabrication paradigm which are considered. those are **SubTractive**Manufacturing and **Additive** Manufacturing
 
 
 
