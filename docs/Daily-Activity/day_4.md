@@ -26,20 +26,19 @@ The selection of Material also consider the ecosystem where the produced device 
 There are different variations of materials which are used in Fabrication Process iether in IoT all even in Computing system aspects. outside the box we have some natural materials like **Wood** which is known for producing different things that are used in our daily life, we also have **Metal** also used for different things like knife,etc. Metal also is used in our IoT field where it regarded as Strenght and precision. There is also **Plastics** which is Lightweight and Adaptable. And Finally, there is **Composites** a substance which combine multiple materials to achieve propertis not found in individual components. for example: Fiberglass which is strong and Flexible.
 
 ## 4. Fabrication Approaches.
-There are two main fabrication paradigm which are considered. those are **SubTractive**Manufacturing and **Additive** Manufacturing
+There are two main fabrication paradigm which are considered. those are **SubTractive**Manufacturing and **Additive** Manufacturing.
+
+For **Subtractive** Approach, to transform raw material into finished product there is a removal of that material from its block like **Laser Cutting** or even **CNC Milling**
+
+While for **Additive** Approach, to transform raw material into finished product it is building layers by layers like **3D Printing**
+
+## 5. Materials Behavior During Fabrication.
+Understanding how the materials react to the external forces like **Heat** , **Force** and also **Speed**. This results in unwanted melting, accelerated tool wear and other aspects which helps the manufacturer to select the material accordingly.
+
+#### Take Home
+A Good design balances performance, cost and responsibility by considering material price, tooling, fabrication time and product's life cycle from use to end-of-life.
 
 
 
-## Research
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-
-## References & Inspiration
-
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-
-
-* Download reference
-
-Links to reference files, PDF, booklets,
 
