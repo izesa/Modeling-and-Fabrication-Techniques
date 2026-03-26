@@ -37,22 +37,31 @@ The activity is to design the model for being able to print it. using FreeCad ap
 ### 2. Activity 2: Press-Fit Box Panel (2D Vector) model design
 As learners we are required to recognize the A flat rectangular panel, Rectangular slots cut into the edges, Slots sized to match material thickness and also the Entirely 2D vector geometry. these all task must be completed in Inkscape software which very suitable to this manuals. The following image illustrate the work done through Inkscape app for the 2D vector model design for the press-Fit Box.
 
+The following image shows the design of a 2Dvector Model of Fit box, where it is designed piece by piece. After the complention of the design the box-part can be assembled to give a 3D image of the box. 
+![Image](../images/Jabo_inkscape02.png){ width=400 Height=300 align=middle }
 
 
-## Research
+These box parts in order to have a final product, they are then modified to what a laser cutter can understand, this means that the edges are triggered for alligning with what cutting path must be followed. the following image shows what i'm saying.
+![Image](../images/Jabo_inkscape02_pdf.png){ width=400 Height=300 align=middle }
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
-## References & Inspiration
+## A Take Home
+1. For the first activity, now i'm able to design my own prototype, Modifying every edge of it, give the prototype measurable shape that i want and be able to come up with a final 3D device that can be Printed.
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-
+2. For the second activity, 
 
 # Reference
 
-### 📄 Project Document
+#### 📄 Project Document
 Click below to view the  FreeCAD file:
 [View on Google Drive](https://drive.google.com/file/d/16lQZIhe1CCdjZkD-eGQtEjid_07mSngf/view?usp=sharing)
 
-Links to reference files, PDF, booklets,
+Click bellow to view the Inkscape File:
+[View on Google Drive](https://drive.google.com/file/d/1MMp_cUckFDZwmSql9YmwS3PQE6P4iXeD/view?usp=drive_link)
 
+#### Downloadable file for :
+#### 1, FreeCAD project:
+[⬇️ Download my document](https://drive.google.com/uc?export=download&id=16lQZIhe1CCdjZkD-eGQtEjid_07mSngf)
+
+#### 2, Inkscape project:
+[⬇️ Download file](https://drive.google.com/uc?export=download&id=1MMp_cUckFDZwmSql9YmwS3PQE6P4iXeD)
