@@ -18,7 +18,17 @@ The material should ofcourse Favor the electronic activities, for example the ma
 #### Intended  Function
 When selecting the material to be used first, I have to know which function or project i'm going to work on. This will help the designer to identified what effectively needed.
 #### Fabrication Methods
-This also determine the type of material to be used 
+This also determine the type of material to be used. According to what each steps in fabrications and modeling Design what type of material is required on that particular stage.
+#### Environment of use.
+The selection of Material also consider the ecosystem where the produced device is going to be implemented. for example if it is in Climate monitoring, the materials to be used for the packaging design must be sustainable through rain and doesn't be affected.
+
+## 3. Diversification of Materials.
+There are different variations of materials which are used in Fabrication Process iether in IoT all even in Computing system aspects. outside the box we have some natural materials like [Wood]{Font style=Bold} which is known for producing different things that are used in our daily life, we also have [Metal]{Font style=Bold} also used for different things like knife,etc. Metal also is used in our IoT field where it regarded as Strenght and precision. There is also [Plastics]{Font style=Bold} which is Lightweight and Adaptable. And Finally, there is [Composites]{Font style=Bold} a substance which combine multiple materials to achieve propertis not found in individual components. for example: Fiberglass which is strong and Flexible.
+
+## 4. Fabrication Approaches.
+There are two main fabrication paradigm which are considered. those are [SubTractive]{Font style=bold} Manufacturing and [Additive]{Font style=Bold} Manufacturing
+
+
 
 ## Research
 
