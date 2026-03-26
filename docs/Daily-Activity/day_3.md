@@ -56,7 +56,7 @@ To be able to design a PCB board according to the instructions needed for that c
 #### Downloadable file for KiCad Project:
 
 #### 1, KiCad project:
-[⬇️ Download my document](https://drive.google.com/uc?export=download&id=1-R97f5uQNQrm5XQOTNtBKmygB6124MI6)
+[⬇️ Download my document](https://drive.google.com/uc?export=download&id=1YQflEabkxwM6uv8QpX_p1oHiknjVnP5F)
 
 
 
