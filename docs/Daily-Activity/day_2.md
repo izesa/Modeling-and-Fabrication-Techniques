@@ -48,7 +48,7 @@ These box parts in order to have a final product, they are then modified to what
 ## A Take Home
 1. For the first activity, now i'm able to design my own prototype, Modifying every edge of it, give the prototype measurable shape that i want and be able to come up with a final 3D device that can be Printed.
 
-2. For the second activity, 
+2. For the second activity, To be able to design different Parts of the prototype by understanding every role of each part and to be able to understand the complexity of the Device or the design that i made.
 
 # Reference
 
