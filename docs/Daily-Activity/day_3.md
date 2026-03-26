@@ -44,7 +44,7 @@ The solution to that challenge is selected the Edge.Cuts Before implementing the
 ## STEP 5: Prepare for Fabrication.
 As the PCB Layout design is done, the project is coming to an end. the following image show what it should look like on the a 3D viewer, how our Board is designed and what components are on the PCB board.
 
-![Image](../images/KiCad_PCB_Design03.png){ width=400 Height=300 align=Right}![Image](../images/KiCad_PCB_Design04.png){ width=400 Height=300 align=Left}
+![Image](../images/KiCad_PCB_Design03.png){ width=400 Height=300}![Image](../images/KiCad_PCB_Design04.png){ width=400 Height=300}
 
 For this last step the next thing is to generate Gerber files and drill files for printing the output correctly.
 
