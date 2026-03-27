@@ -76,6 +76,8 @@ The following pictures will explain from digital model to final product of the o
 ![Image](../images/Full_Work.jpeg){ width=400 Height=300 align=middle }
 #### This is the two final products of my Day6 activity.
 
+## References
+Attached document is for thosed printed documents.
 
-
+[⬇️ Download file](https://drive.google.com/uc?export=download&id=1LMQdOgmmT6V-wMLa5vqBGYQpp4VQ5XdD)
 
