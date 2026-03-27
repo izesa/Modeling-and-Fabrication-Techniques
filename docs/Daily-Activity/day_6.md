@@ -74,7 +74,7 @@ The following pictures will explain from digital model to final product of the o
 #### The final prototype of my second work on this activity of digital fabrication using additive Manufacturing paradigm.
 
 ![Image](../images/Full_Work.jpeg){ width=400 Height=300 align=middle }
-### This is the two final products of my Day6 activity.
+#### This is the two final products of my Day6 activity.
 
 
 
