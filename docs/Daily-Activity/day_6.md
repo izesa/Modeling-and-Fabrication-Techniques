@@ -52,5 +52,30 @@ Once the 3D printer is prepared, it will bring my digital Design to life. in the
 ![Image](../images/Prototype01.jpeg){ width=400 Height=300 align=middle }
 #### this is the final product, printed Wall hook which was designed in Day 2 activity and now came to life.
 
+## Safety and Best Parctices.
+ The following are the most effective Safety procedures to do during the Printing process:
+#### Watch for Heat:
+Avoiding touching the build surface for preventing burns
+#### Ensure ventilation:
+Use your printer in a well- ventillated area to dissipate fumes from melting. this means that the Lab is best place to do it so.
+#### Supervise long prints:
+Checking the 3D printer for extended periods of printing.
+
+#### Other Additional printing of my work for better understanding.
+The following pictures will explain from digital model to final product of the other device that i have done for more understanding.
+
+![Image](../images/Digital_Model04.png){ width=400 Height=300 align=middle }
+#### This is the Digital Model of my other work.
+
+![Image](../images/3D_Printer.jpeg){ width=400 Height=300 align=middle }
+#### This Image shows the process of preparing and setting up the 3D printer for printing my device as shown.
+
+![Image](../images/Final_Prototype.jpeg){ width=400 Height=300 align=middle }
+#### The final prototype of my second work on this activity of digital fabrication using additive Manufacturing paradigm.
+
+![Image](../images/Full_Work.jpeg){ width=400 Height=300 align=middle }
+### This is the two final products of my Day6 activity.
+
+
 
 
