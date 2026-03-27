@@ -35,7 +35,7 @@ here is to be able to manufacture other prototypes by my own and be able to prin
 
 ## About me
 
-![](./images/avatar-photo.jpg){ width=200 align=right }
+![](./images/JABO_Image.jpeg){ width=200 align=right }
 
 
 Hi! I am IZESA JABO Epiphane. I am a postgraduate candidate at Universisty of Rwanda, College of Science and Technology, African Center Of Excellency in Internet of Things. My specialisation is in Embedded computing Systems

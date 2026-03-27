@@ -46,6 +46,11 @@ After preparing the design Model, now i'm going to setup the Printer, to make th
 ### STEP 3: Printing Process.
 Once the 3D printer is prepared, it will bring my digital Design to life. in the Printing process there are different steps also that are followed t=by the printer itself. these are **initiate Print**, **Monitor first layers**, **layer-by-layer construction** and **Cooling Fans** that regulate the cooling of extruded plastics.
 
+![Image](../images/Digital_Model03.jpeg){ width=400 Height=300 align=middle }
+#### this is the picture showing  the printing process for that digital Model design of the Wall hook.
+
 ![Image](../images/Prototype01.jpeg){ width=400 Height=300 align=middle }
-#### this is the final product, printed Wall hook which was designed in Day 2 activity and know came to life.
+#### this is the final product, printed Wall hook which was designed in Day 2 activity and now came to life.
+
+
 
