@@ -1,4 +1,6 @@
-# 6. Activity of Day 6
+# 6. Activity of Day 6: Digital Fabrication II: Additive Manufacturing.
+## 1. Introduction with a Summary.
+
 
 ## Research
 

@@ -25,6 +25,9 @@ The selection of Material also consider the ecosystem where the produced device 
 ## 3. Diversification of Materials.
 There are different variations of materials which are used in Fabrication Process iether in IoT all even in Computing system aspects. outside the box we have some natural materials like **Wood** which is known for producing different things that are used in our daily life, we also have **Metal** also used for different things like knife,etc. Metal also is used in our IoT field where it regarded as Strenght and precision. There is also **Plastics** which is Lightweight and Adaptable. And Finally, there is **Composites** a substance which combine multiple materials to achieve propertis not found in individual components. for example: Fiberglass which is strong and Flexible.
 
+![Image](../images/PCB_Board.jpeg){ width=400 Height=300 align=middle }
+#### This is an example of material used in CNC and PCB Milling(it is Package of them), it a two-sided copper Board material that is used mainly for PCB design.
+
 ## 4. Fabrication Approaches.
 There are two main fabrication paradigm which are considered. those are **SubTractive**Manufacturing and **Additive** Manufacturing.
 
