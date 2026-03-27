@@ -1,15 +1,38 @@
-# 7. Activity of Day 7
+# 7. Activity of Day 7: Digital Fabrication III: CNC Router Milling & Cutting.
+##  PCB Milling Process using Carbide Nomad 3 CNC.
 
-## Research
+### 1. Introduction to PCB Milling.
+PCB Milling is a substractive manufacturing process that uses CNC machines to physically remove copper from PCB blanks.
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+#### Advantages:
+1. Ideal of Rapid prototyping and small-batch production
+2. Eliminates the need for messy chemical etching processes.
+3. Provides quick turnaround times for design Iterations.
 
-## References & Inspiration
+### 2. Overview of the Carbide Nomad 3
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+![Image](../images/Nomad.jpeg.jpeg){ width=400 Height=300 align=middle }
+#### Observational View of this PCB Milling machine That is used to put to life the PCB Board designed in the Day 3 activity.
 
+There are the main Parts or Key parts that makes the essentiality of this device.
+#### Desktop CNC Milling Machine
+Compact and powerful,designed for precisionin smaller footprint.
+#### Enclosure for safety and Dust Control
+Ensures a safer working environment and minimizes airbone particles.
+#### High Precision for PCB Milling
+Capable of intricate details required for complex Circuit Boards.
+#### Compatible with Carbide Software.
+seamless integration with carbide create for design and carbide Motion for machine control.
+### 3. Essential Components for PCB Milling.
+1. **PCB BLANKS** : FR-1 and FR-4 Copper-Clad Board, this is the base material for my circuit that i designed in **day 3** activity using **KiCad**. FR-1 IS Papper-based, easier to mill and for FR-4 is the fiberglass-based which is more durable.
+2. **End Mills and Drill Bites** : According to the notes, 0.2-0.4 mm Flat End Mill which for precise trace isolation. Then for the drill bites is according to the various sizes for the component holes.
+3. **Securing Materilas**: a double-sided tape which is for temporary, secure board mounting.
+4. **Cleaning Tools** :Vacuum or Brush for removing milling dust nad debris, maintaining machine cleanliness.
+### 4. PCB Design Preparation
+Before Milling, i have used a dedicated PCB design software known as "**KiCad**"for creating the SChematic and board layout which is shown bellow in the pictures:
 
-* Download reference
+![Image](../images/Jabo_KiCad_schema.png){ width=400 Height=300 align=middle }
+#### Schematic design done in Day 3 activity.
 
-Links to reference files, PDF, booklets,
-
+![Image](../images/kiCad_PCB_Design.png){ width=400 Height=300 align=middle }
+#### PCB Layout Design done in Day 3 Activity.
