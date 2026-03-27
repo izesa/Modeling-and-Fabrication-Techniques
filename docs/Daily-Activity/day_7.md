@@ -11,7 +11,7 @@ PCB Milling is a substractive manufacturing process that uses CNC machines to ph
 
 ### 2. Overview of the Carbide Nomad 3
 
-![Image](../images/Nomad.jpeg.jpeg){ width=400 Height=300 align=middle }
+![Image](../images/Nomad.jpeg){ width=400 Height=300 align=middle }
 #### Observational View of this PCB Milling machine That is used to put to life the PCB Board designed in the Day 3 activity.
 
 There are the main Parts or Key parts that makes the essentiality of this device.
