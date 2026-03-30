@@ -36,3 +36,16 @@ Before Milling, i have used a dedicated PCB design software known as "**KiCad**"
 
 ![Image](../images/kiCad_PCB_Design.png){ width=400 Height=300 align=middle }
 #### PCB Layout Design done in Day 3 Activity.
+
+### 5. Toolpath Generation for Milling.
+Toolpath generation translates your PCB design into machine instructions. Software like Carbide ctreate is used for this step. those steps are:
+#### Import Gerber files
+Loa your exported Gerber and Drill files into my CAM software.
+#### Generate Toolpaths
+Create seperate toolpaths for **Trace isolation** and **Drilling**
+#### Set Cutting Parameters.
+Defining cutting depth, Tool diameter and Feed rate based on my materia and Tool specification.
+#### Export G-code
+Generate the Final G-CODE FILE that the Nomad 3 will execute.
+
+### 6. Machine Setup and Calibration.
