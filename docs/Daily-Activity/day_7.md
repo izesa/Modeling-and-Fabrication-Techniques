@@ -49,3 +49,7 @@ Defining cutting depth, Tool diameter and Feed rate based on my materia and Tool
 Generate the Final G-CODE FILE that the Nomad 3 will execute.
 
 ### 6. Machine Setup and Calibration.
+#### The PCB Milling Process
+1. **Isolation Milling**: The machine begins by cutting the isolation traces, separating copper pads and times.
+2. **Drilling Holes**: drill bits are used to create all necessary component holes
+3. **Board Outline Cut**:Finally, the machine cuts out the overallshape of My PCB Milling Board.
