@@ -48,8 +48,27 @@ Defining cutting depth, Tool diameter and Feed rate based on my materia and Tool
 #### Export G-code
 Generate the Final G-CODE FILE that the Nomad 3 will execute.
 
+
 ### 6. Machine Setup and Calibration.
 #### The PCB Milling Process
 1. **Isolation Milling**: The machine begins by cutting the isolation traces, separating copper pads and times.
 2. **Drilling Holes**: drill bits are used to create all necessary component holes
 3. **Board Outline Cut**:Finally, the machine cuts out the overallshape of My PCB Milling Board.
+The following pictures will shows the final step of preparing the PCB design in Carbide copper for the Nomad 3 Carbided machine to execute and produce a final design.
+
+![Image](../images/Carbide_Copper_Cutting_Milling.PNG){ width=400 Height=300 align=middle }
+#### Measuring the size and the area for my design to be cutted in.
+
+![Image](../images/Carbide_Copper_drilling_path.png){ width=400 Height=300 align=middle }
+#### Adding drilling file for those points where terminals of the componets must fit in.
+
+![Image](../images/Carbide_Copper_Ready_to_print.PNG){ width=400 Height=300 align=middle }
+This is final work were it is generated through **Carbide Motion** Software application which monitor the Nomad 3 Carbide for adjustments in order to print the Pcb design.
+
+### 7. Challenges.
+After finishing the designs and adjusting the machine. there were an issues of small tools called **Carbide end Mill** some used for milling were over used during the first experiment we have done with the lecture. What left was for drilling and cutting edges. 
+#### Results:
+I was unable to print the final single-sidded copper PCB Board due to lack of some essential Materials.
+
+#### Take Home:
+As i'm becoming to an end of this lesson. I'm now able to compete on the market level for Fabrication and Modeling Techniques applications like producing **Final Packing devices ** , designing and Cutting **Flat-parts of any device and Assemble them at the end** according to the specific project i'm working on it. and finally as an embedded computing specialist to be able to design and put to life a PCB Board that can multitask different instructions according to what Objectives are needed for a certain project.
