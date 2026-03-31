@@ -56,13 +56,14 @@ Generate the Final G-CODE FILE that the Nomad 3 will execute.
 3. **Board Outline Cut**:Finally, the machine cuts out the overallshape of My PCB Milling Board.
 The following pictures will shows the final step of preparing the PCB design in Carbide copper for the Nomad 3 Carbided machine to execute and produce a final design.
 
-![Image](../images/Carbide_Copper_Cutting_Milling.PNG){ width=400 Height=300 align=middle }
+![Image](../images/Carbide_Copper_Cutting_Milling.png){ width=400 Height=300 align=middle }
 #### Measuring the size and the area for my design to be cutted in.
 
-![Image](../images/Carbide_Copper_drilling_path.png){ width=400 Height=300 align=middle }
+![Image](../images/Carbide_Copper_drilling_path.PNG){ width=400 Height=300 align=middle }
 #### Adding drilling file for those points where terminals of the componets must fit in.
 
 ![Image](../images/Carbide_Copper_Ready_to_print.PNG){ width=400 Height=300 align=middle }
+
 This is final work were it is generated through **Carbide Motion** Software application which monitor the Nomad 3 Carbide for adjustments in order to print the Pcb design.
 
 ### 7. Challenges.
